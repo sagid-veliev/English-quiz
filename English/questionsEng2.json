@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate from Russian into English. Я умею петь.",
+    "choice1": "I can to sing",
+    "choice2": "I could to sing",
+    "choice3": "I can sing",
+    "choice4": "I can't sing",
+    "answer": 3
+  },
+  {
+    "question": "Translate from Russian into English. Вы должны навестить своих родителей.",
+    "choice1": "You must come to see your parents.",
+    "choice2": "You must to come to see your parents.",
+    "choice3": "You must to come see your parents.",
+    "choice4": "You to must come to see your parents.",
+    "answer": 1
+  },
+  {
+    "question": "Составьте отрицательное предложение из слов (Not, I, modest, am, person, a)",
+    "choice1": "I not am a modest person.",
+    "choice2": "I am a modest not person.",
+    "choice3": "Am not I a modest person.",
+    "choice4": "I am not a modest person.",
+    "answer": 2
+  },
+  {
+    "question": "Составьте утвердительное предложение из слов (Fine, today, is, weather, the)",
+    "choice1": "Weather is the fine today.",
+    "choice2": "The weather is fine today.",
+    "choice3": "Fine the weather is today.",
+    "choice4": "Today is the fine weather.",
+    "answer": 2
+  },
+  {
+    "question": "... Earth is ... third planet of the Solar System.",
+    "choice1": "A, the",
+    "choice2": "The, the",
+    "choice3": "-, the",
+    "choice4": "The, a",
+    "answer": 4
+  },
+  {
+    "question": "John is such ... generous man!",
+    "choice1": "the",
+    "choice2": "a",
+    "choice3": "-",
+    "choice4": "am",
+    "answer": 2
+  },
+  {
+    "question": "Those(man) are looking for that tall (woman).",
+    "choice1": "men, woman",
+    "choice2": "man, women",
+    "choice3": "mens, woman",
+    "choice4": "mens, women",
+    "answer": 1
+  },
+  {
+    "question": "I have bought three (dozen) tickets to the cinema today.    ",
+    "choice1": "dozenes",
+    "choice2": "dozens",
+    "choice3": "dozenos",
+    "choice4": "dozen",
+    "answer": 4
+  },
+  {
+    "question": "... more you read ... more you know.",
+    "choice1": "A, a",
+    "choice2": "-,-",
+    "choice3": "A, the",
+    "choice4": "The, the",
+    "answer": 4
+  },
+  {
+    "question": "... USA and ... People’s Republic of China are the world’s leading economies.",
+    "choice1": "The, -",
+    "choice2": "-, the",
+    "choice3": "The, the",
+    "choice4": "-,-",
+    "answer": 3
+  }
+]

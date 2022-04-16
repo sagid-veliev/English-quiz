@@ -1,0 +1,82 @@
+[
+  {
+    "question": "It is (Kate) (reference book), isn’t it?",
+    "choice1": "Kate’s reference book",
+    "choice2": "Kate reference book’s",
+    "choice3": "Kates reference book",
+    "choice4": "Kate references’ book",
+    "answer": 1
+  },
+  {
+    "question": "I cannot look at (doctor) (scalpel). It’s so terrifying.",
+    "choice1": "doctor scalpel’s",
+    "choice2": "doctor scalpels’",
+    "choice3": "doctor’s scalpel",
+    "choice4": "doctors scalpel",
+    "answer": 2
+  },
+  {
+    "question": "My room is (clean) than other rooms of my house.",
+    "choice1": "more clean",
+    "choice2": "cleaner",
+    "choice3": "cleanest",
+    "choice4": "the cleaner",
+    "answer": 2
+  },
+  {
+    "question": "The wind (blow) at noon.",
+    "choice1": "blowing",
+    "choice2": "was blowing",
+    "choice3": "are blowing",
+    "choice4": "had been blowing",
+    "answer": 2
+  },
+  {
+    "question": "I think that your gift is ... than mine.",
+    "choice1": "gooder",
+    "choice2": "best",
+    "choice3": "the gooder",
+    "choice4": "better",
+    "answer": 4
+  },
+  {
+    "question": "All the documents of my firm are (type) by the secretary",
+    "choice1": "typing",
+    "choice2": "typed",
+    "choice3": "be typing",
+    "choice4": "type",
+    "answer": 2
+  },
+  {
+    "question": "Переведите в страдательный залог. This exhibit is (watch) every day.",
+    "choice1": "watch",
+    "choice2": "watches",
+    "choice3": "watched",
+    "choice4": "be watched",
+    "answer": 4
+  },
+  {
+    "question": "Translate from Russian into English. Я перепрыгнул через забор",
+    "choice1": "I jumped from the fence.",
+    "choice2": "I jumped to the fence.",
+    "choice3": "I jumped over the fence.",
+    "choice4": "I jumped up the fence.",
+    "answer": 3
+  },
+  {
+    "question": "I’ll get some sugar _____ the shop.",
+    "choice1": "of",
+    "choice2": "on",
+    "choice3": "from",
+    "choice4": "off",
+    "answer": 3
+  },
+  {
+    "question": "Translate from Russian into English. Мой друг на крыше.",
+    "choice1": "My friend is in the roof.",
+    "choice2": "My friend is at the roof.",
+    "choice3": "My friend is on the roof.",
+    "choice4": "My friend is under the roof.",
+    "answer": 3
+  }
+]

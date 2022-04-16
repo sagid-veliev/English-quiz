@@ -1,0 +1,82 @@
+[
+  {
+    "question": "My mother is ... economist",
+    "choice1": "the",
+    "choice2": "an",
+    "choice3": "a",
+    "choice4": "-",
+    "answer": 2
+  },
+  {
+    "question": "I have bought three (dozen) tickets to the cinema today.    ",
+    "choice1": "dozenes",
+    "choice2": "dozens",
+    "choice3": "dozenos",
+    "choice4": "dozen",
+    "answer": 4
+  },
+  {
+    "question": "My son ... like geometry",
+    "choice1": "do not",
+    "choice2": "does not",
+    "choice3": "not",
+    "choice4": "is not",
+    "answer": 2
+  },
+  {
+    "question": "I ... to school every day",
+    "choice1": "goes",
+    "choice2": "am",
+    "choice3": "went",
+    "choice4": "go",
+    "answer": 4
+  },
+  {
+    "question": "John bought ... cap",
+    "choice1": "a",
+    "choice2": "the",
+    "choice3": "an",
+    "choice4": "-",
+    "answer": 1
+  },
+  {
+    "question": "They ... at work now",
+    "choice1": "are",
+    "choice2": "be",
+    "choice3": "is",
+    "choice4": "am",
+    "answer": 1
+  },
+  {
+    "question": "I love Russia. ... am in St. Petersburg now",
+    "choice1": "He",
+    "choice2": "She",
+    "choice3": "I",
+    "choice4": "me",
+    "answer": 3
+  },
+  {
+    "question": "Have you got a ball? Yes, I ... .",
+    "choice1": "have",
+    "choice2": "do",
+    "choice3": "am",
+    "choice4": "ball",
+    "answer": 1
+  },
+  {
+    "question": "Have you got many violets in your ...?",
+    "choice1": "office",
+    "choice2": "school",
+    "choice3": "garden",
+    "choice4": "store",
+    "answer": 3
+  },
+  {
+    "question": "Is ... a zebra or tiger?",
+    "choice1": "these",
+    "choice2": "this",
+    "choice3": "their",
+    "choice4": "their",
+    "answer": 2
+  }
+]
